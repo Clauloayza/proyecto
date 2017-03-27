@@ -1,0 +1,14 @@
+$color: red;
+$background: #ccc;
+
+p{
+	background: #ccc;
+	a{
+		color: $color;
+	}
+	
+}
+h4{
+		opacity: 0.5;
+		background: $background;
+	}
